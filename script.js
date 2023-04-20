@@ -25,11 +25,6 @@ Promise.any(promises)
   .catch((error) => {
     console.error(error);
   });
-//
-// for(let i=0;i<5;i++)
-// 	{
-// 		const randomTime=Math.floor(Math.random()*5+1);
-// 	}
 
 
 
